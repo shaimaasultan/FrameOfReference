@@ -25,4 +25,4 @@
 (B)Fibonacci sequence
 ---
 
-<img scr="Screenshot 2024-01-19 125603.png" />
+<img src="Screenshot 2024-01-19 125603.png" />
